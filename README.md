@@ -1,64 +1,70 @@
 # Awesome FIDO2
 A curated list of awesome FIDO2 frameworks, libraries, software and resources.
 
-[![FIDO Is The Answer To Your Password Problem](https://res.cloudinary.com/marcomontalbano/image/upload/v1659085297/video_to_markdown/images/youtube--SgE5VnMTluQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=SgE5VnMTluQ "FIDO Is The Answer To Your Password Problem")
+Introduce FIDO2: https://www.youtube.com/watch?v=SgE5VnMTluQ
 
 ## Contents
 
-[TOC]
+* [Library](#library)
+* [Demo](#demo)
+* [Reading](#reading)
+* [FIDO®](#fido)
+* [Documents](#documents)
+* [Community](#community)
 
 ## Library
 
-* Server
+Server
 
-  * [duo-labs/webauthn](https://github.com/duo-labs/webauthn) (Go)
+* [duo-labs/webauthn](https://github.com/duo-labs/webauthn) (Go)
 
-  * [duo-labs/py_webauthn](https://github.com/duo-labs/py_webauthn) (Pyhthon)
+* [duo-labs/py_webauthn](https://github.com/duo-labs/py_webauthn) (Pyhthon)
 
-  * [Yubico/python-fido2](https://github.com/Yubico/python-fido2) (Python)
+* [Yubico/python-fido2](https://github.com/Yubico/python-fido2) (Python)
 
-  * [lbuchs/WebAuthn](https://github.com/lbuchs/WebAuthn) (PHP)
+* [lbuchs/WebAuthn](https://github.com/lbuchs/WebAuthn) (PHP)
 
-  * [Yubico/java-webauthn-server](https://github.com/Yubico/java-webauthn-server) (Java)
+* [Yubico/java-webauthn-server](https://github.com/Yubico/java-webauthn-server) (Java)
 
-  * [webauthn4j/webauthn4j](https://github.com/webauthn4j/webauthn4j) (Java)
+* [webauthn4j/webauthn4j](https://github.com/webauthn4j/webauthn4j) (Java)
 
-  * [line/line-fido2-server](https://github.com/line/line-fido2-server) (Java, `Certified`)
+* [line/line-fido2-server](https://github.com/line/line-fido2-server) (Java, `Certified`)
 
-  * [StrongKey/fido2](https://github.com/StrongKey/fido2) (Java, `Certified`)
+* [StrongKey/fido2](https://github.com/StrongKey/fido2) (Java, `Certified`)
 
-  * [cedarcode/webauthn-ruby](https://github.com/cedarcode/webauthn-ruby) (Ruby)
+* [cedarcode/webauthn-ruby](https://github.com/cedarcode/webauthn-ruby) (Ruby)
 
-  * [kanidm/webauthn-rs](https://github.com/kanidm/webauthn-rs) (Rust)
+* [kanidm/webauthn-rs](https://github.com/kanidm/webauthn-rs) (Rust)
 
-  * [passwordless-lib/fido2-net-lib](https://github.com/passwordless-lib/fido2-net-lib) (C#)
+* [passwordless-lib/fido2-net-lib](https://github.com/passwordless-lib/fido2-net-lib) (C#)
 
-  * [webauthn-open-source/fido2-lib](https://github.com/webauthn-open-source/fido2-lib) (Javascript)
+* [webauthn-open-source/fido2-lib](https://github.com/webauthn-open-source/fido2-lib) (Javascript)
 
-* Client
+Client
 
-  * [github/webauthn-json](https://github.com/github/webauthn-json) (Typescript)
+* [github/webauthn-json](https://github.com/github/webauthn-json) (Typescript)
 
-  * [microsoft/webauthn](https://github.com/microsoft/webauthn) (C, Win32 APIs)
+* [microsoft/webauthn](https://github.com/microsoft/webauthn) (C, Win32 APIs)
 
-  * [lyokato/WebAuthnKit-iOS](https://github.com/lyokato/WebAuthnKit-iOS) (Swift)
+* [lyokato/WebAuthnKit-iOS](https://github.com/lyokato/WebAuthnKit-iOS) (Swift)
 
-  * [lyokato/WebAuthnKit-Android](https://github.com/lyokato/WebAuthnKit-Android) (Kotlin)
+* [lyokato/WebAuthnKit-Android](https://github.com/lyokato/WebAuthnKit-Android) (Kotlin)
 
-* CTAP
-  * [Yubico/libfido2](https://github.com/Yubico/libfido2) (C)
+CTAP
 
-* Hardware Authenticator
+* [Yubico/libfido2](https://github.com/Yubico/libfido2) (C)
 
-  * [bodik/soft-webauthn](https://github.com/bodik/soft-webauthn) (Python)
+Hardware Authenticator
 
-  * [uru-card/uru-card](https://github.com/uru-card/uru-card) (C++)
+* [bodik/soft-webauthn](https://github.com/bodik/soft-webauthn) (Python)
 
-* Software Authenticator
+* [uru-card/uru-card](https://github.com/uru-card/uru-card) (C++)
 
-  * [google/OpenSK](https://github.com/google/OpenSK) (Rust)
+Software Authenticator
 
-  * [solokeys/solo1](https://github.com/solokeys/solo1) (C)
+* [google/OpenSK](https://github.com/google/OpenSK) (Rust)
+
+* [solokeys/solo1](https://github.com/solokeys/solo1) (C)
 
 ## Demo
 
@@ -90,8 +96,9 @@ A curated list of awesome FIDO2 frameworks, libraries, software and resources.
 
 
 
-* Dev Tools
-  * [google/virtual-authenticators-tab](https://github.com/google/virtual-authenticators-tab) - Debug webauthn with a chrome extension that adds a virtual authenticators tab to devtools
+Dev Tools
+
+* [google/virtual-authenticators-tab](https://github.com/google/virtual-authenticators-tab) - Debug webauthn with a chrome extension that adds a virtual authenticators tab to devtools
 
 FIDO Certification Documents Downlaod:
 

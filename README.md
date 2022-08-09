@@ -5,12 +5,17 @@ Introduce FIDO2: https://www.youtube.com/watch?v=SgE5VnMTluQ
 
 ## Contents
 
+* [Passkeys](#passkeys)
 * [Library](#library)
 * [Demo](#demo)
 * [Reading](#reading)
 * [FIDO®](#fido)
 * [Documents](#documents)
 * [Community](#community)
+
+## Passkeys
+
+* [Apple WWDC2022](https://developer.apple.com/videos/play/wwdc2022/10092/) - Learn how to add support for passkeys to create a quick and easy sign in experience for people
 
 ## Library
 
@@ -110,7 +115,5 @@ Links:
 * https://fidoalliance.org/specifications/download/
 * https://fidoalliance.org/certification/
 * https://fidoalliance.org/certification/fido-certified-products/
-
-
 * https://github.com/w3c/webauthn
 

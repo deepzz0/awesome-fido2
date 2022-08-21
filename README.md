@@ -16,6 +16,7 @@ Introduce FIDO2: https://www.youtube.com/watch?v=SgE5VnMTluQ
 ## Passkeys
 
 * [Apple WWDC2022](https://developer.apple.com/videos/play/wwdc2022/10092/) - Learn how to add support for passkeys to create a quick and easy sign in experience for people
+* [Google IO](https://www.youtube.com/watch?v=xghjqgj4peA#t=9m00s) - Android solutions for seamless sign-in across devices
 
 ## Library
 
